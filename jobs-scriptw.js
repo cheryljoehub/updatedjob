@@ -58,6 +58,9 @@ const MAJORS = {
       { title: "Tax Preparer", company: "Landmark Certified Public Accountants", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/45953ea1c029e4e3ee685790f8ed83de" },
       { title: " Leadership Development Internship Program - Finance & Accounting ", company: "Textron", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/c25c0b141e641f5449d9e209e72f2766" },
       { title: "December 2026 Externship", company: "Equity Methods", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/0f5580039c68a6ae35df8d20b85f5f30" },
+      { title: "Financial Advisor, Everyday Steward", company: "BlueTrust", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/1881eb2babcb5e77bd8065207b687f25" },
+      { title: "Credit Analysis and Financial Reporting Intern", company: "Bank of Topeka", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/2c4f2ee4a0219ea984de8f434f12970f" },
+
     ]
   },
   accounting: {
@@ -69,6 +72,7 @@ const MAJORS = {
      /* { title: "Tax Associate", company: "Example Advisory", link: "#" },*/
       { title: "Audit Staff", company: "WP+D", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/40c36a9c153fade2a570f0c8dc87dd6a" },
       { title: "Accounting Clerk", company: "InnovaQuartz", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/aa1ea256aabedf5b87f4a67e5daa925d" },
+      { title: "Financial Advisor, Everyday Steward", company: "BlueTrust", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/1881eb2babcb5e77bd8065207b687f25" },
    /*   { title: "Internal Audit Associate", company: "Example Holdings", link: "#" },
       { title: "Cost Accountant", company: "Example Manufacturing", link: "#" },
       { title: "Payroll Accountant", company: "Example Group", link: "#" },
@@ -85,8 +89,8 @@ const MAJORS = {
     jobs: [
     { title: "Intern - Ops Strat Analytics (Summer 2027)", company: "United Airlines", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/67975757f02c7da5966ac36272f32929" },
       { title: "2027 Intern - Contracts - Hunt Valley, MD", company: "Textron", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/140cce000c549d7bdf3a1fa6ce44b8ed" },
-     /* { title: "Market Research Analyst", company: "Example Insights", link: "#" },
-      { title: "Data & Policy Fellow", company: "Example Gov Agency", link: "#" },
+      { title: "Financial Advisor, Everyday Steward", company: "BlueTrust", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/1881eb2babcb5e77bd8065207b687f25" },
+    /*  { title: "Data & Policy Fellow", company: "Example Gov Agency", link: "#" },
       { title: "Quantitative Research Intern", company: "Example Fund", link: "#" },
       { title: "Public Policy Associate", company: "Example Institute", link: "#" },
       { title: "Trade Analyst", company: "Example Commerce Co.", link: "#" },
@@ -116,8 +120,8 @@ const MAJORS = {
     jobs: [
       { title: "2027 Intern - Human Resources", company: "Textron", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/83c9ce7df3d1cccdf76c51377b26155b " },
       { title: "HR Leadership Development Program Internship - Summer 2027", company: "Travelers Insurance Company", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/6acbec8503a5e07ff89e73182f7fa197" },
-      /*{ title: "HR Coordinator", company: "Example Holdings", link: "#" },
-      { title: "Benefits Administrator", company: "Example Inc.", link: "#" },
+      { title: "Human Resources Administrator", company: "Blue Trust", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/bb3e09e591fd0e8d8b3d3d593475a015" },
+      /*{ title: "Benefits Administrator", company: "Example Inc.", link: "#" },
       { title: "Learning & Development Assistant", company: "Example Academy", link: "#" },
       { title: "DEI Program Coordinator", company: "Example Group", link: "#" },
       { title: "HRIS Analyst", company: "Example Systems", link: "#" },
