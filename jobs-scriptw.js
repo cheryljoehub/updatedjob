@@ -40,7 +40,7 @@ const WEEK_OF ="Enter Date or text in double quotes";
 Example = const WEEK_OF = "July 7, 2026";
 */
 
-const WEEK_OF = "September 7, 2026"; 
+const WEEK_OF = "September 21, 2026"; 
 
 /*
 Const MAJORS contains all the braches of the jobs that CCOB has that you can apply for
