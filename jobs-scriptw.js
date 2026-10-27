@@ -62,7 +62,6 @@ const MAJORS = {
       { title: "Financial Services Representative (Austin, TX)", company: "Charles Schwab", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/1edb147836951d91f9eb35d8623b7044", applyBy: "November 7, 2026" },
       { title: "Financial Services Representative (Indianapolis, IN)", company: "Charles Schwab", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/531c150c0fd88f2322848d2f641b6ed6", applyBy: "November 7, 2026" },
       { title: "Financial Services Representative (Westlake, TX)", company: "Charles Schwab", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/a890444436cafcf8002505bffad1aea9", applyBy: "November 7, 2026" },
-      { title: "2027 Commercial & Specialized Industries Full-Time Analyst P", company: "JPMorgan Chase & Co.", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/bd4bcc56f24d3f85b565b225d9031d32", applyBy: "October 16, 2026" },
     ]
   },
   accounting: {
@@ -88,8 +87,6 @@ const MAJORS = {
     trend: "down",
     desc: "Research, policy, and consulting roles for data-driven thinkers.",
     jobs: [
-      { title: "Community Relations Intern - MN", company: "Xcel Energy", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/e793489fbc8cf5911e332132e750293e", applyBy: "October 13, 2026" },
-      { title: "Underwriting Internship - Summer 2027 - Dallas", company: "Zurich NA", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/a2279234553341ef9af5879fc2fd8f5a", applyBy: "October 13, 2026" },
       { title: "GFOAZ Internship - Scholarship Program", company: "Government Finance Officers Association of Arizona", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/51dd911878e219683c14db22aeb8b8e3", applyBy: "November 7, 2026" },
     ]
   },
@@ -101,7 +98,6 @@ const MAJORS = {
     jobs: [
       { title: "Creative Marketing Specialist", company: "First Credit Union", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/581f7fb51e56a52f71f83cf0177c1b05", applyBy: "November 5, 2026" },
       { title: "Bilingual Spanish Marketing Trainee", company: "Sandhills Global, Inc (Lincoln, NE)", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/73c0133f5835e219533748c3c70a2089", applyBy: "October 30, 2026" },
-      { title: "Sales and Marketing Intern", company: "Savage Air Conditioning", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/5f1f83b6d8b40bf75dce15553fef60aa", applyBy: "October 16, 2026" },
     ]
   },
   hr: {
@@ -111,10 +107,7 @@ const MAJORS = {
     desc: "People operations, talent, and organizational development roles.",
     jobs: [
       { title: "Human Resources Rerpesentative", company: "First Credit Union", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/59e87d64c63003f90f5c0137ddb9af4f", applyBy: "November 12, 2026" },
-      { title: "Human Resources: Office Admin", company: "CAMP-of-the-WOODS", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/73a2ca48effe9ae774c41ecbc467f255", applyBy: "October 23, 2026" },
-      { title: "Human Resources Summer Associate Internship", company: "UPMC", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/3a3b1d9e63db9fbe57c056e593ab6fc9", applyBy: "October 13, 2026" },
       { title: "Human Resources Administrator", company: "Blue Trust", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/bb3e09e591fd0e8d8b3d3d593475a015", applyBy: "October 31, 2026" },
-      { title: "Human Resources Summer Associate Internship - Benefits & Compensation", company: "UPMC", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/9d93c24c269a9d0df98ca55ad4739e12", applyBy: "October 13, 2026" },
       { title: "2027 Summer Internship - Human Resources", company: "Freeport-McMoRan", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/9ce771468f995adeb10cd656ef9a0109", applyBy: "October 31, 2026" },
     ]
   },
@@ -158,7 +151,6 @@ const MAJORS = {
     desc: "Hotel, event, and guest-experience operations roles.",
     jobs: [
       { title: "Event Management Interns", company: "Arizona Events Group", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/d99d77f8f877ae8e7b09008ef23ff23b", applyBy: "October 30, 2026" },
-      { title: "Baking&Pastry Intern, Wolfgang Puck Catering / Bentonville, AR", company: "Compass Group, North America", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/c4408a7182e6d2a6a3b5ef877f3d6c45", applyBy: "October 13, 2026" },
       { title: "Part-Time Banquet Server - Weddings & Events", company: "Wedgewood Weddings and Events", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/94dc4ebb6488efa1b72ba0148e6351b2", applyBy: "November 8, 2026" },
       { title: "Adventure Host", company: "Urban Air Adventure Park", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/2c3bb512c9eeceda53066f72c3eb9660", applyBy: "October 30, 2026" },
     ]
@@ -174,8 +166,6 @@ const MAJORS = {
       { title: "Sports Class Instructor for Kids", company: "Beginners Edge Sports Training", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/6475107d33f734d60850335bbf449590", applyBy: "November 3, 2026" },
       { title: "Associate, Partnership Marketing (October 2026 - June 2027)", company: "Arizona Cardinals", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/e29a0e11134b6a357850b335da43843d", applyBy: "November 1, 2026" },
       { title: "Performance Coaching Intern", company: "Source Performance", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/875df51a36c404102b539309ca8196ac", applyBy: "October 30, 2026" },
-      { title: "Sales Representative", company: "Athletes to Careers", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/b437f3b19b9f4a8cfe568940360bff57", applyBy: "October 25, 2026" },
-      { title: "Soccer Coach - Junior High", company: "BASIS.ed", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/7288c04e81a50f21ea0aff2b3b67e382", applyBy: "October 23, 2026" },
       { title: "Adventure Host", company: "Urban Air Adventure Park", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/2c3bb512c9eeceda53066f72c3eb9660", applyBy: "October 30, 2026" },
     ]
   },
@@ -189,10 +179,6 @@ const MAJORS = {
       { title: "Manufacturing Systems and Supply Planning Co-Op", company: "Entegris, Inc.", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/702ba68d2c22b3c49c2b7041c2428c95", applyBy: "November 5, 2026" },
       { title: "2027 Operations, Supply Chain Intern", company: "Mercury Systems", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/f9f495fd5bdf278f3fe258606c54b060", applyBy: "November 12, 2026" },
       { title: "2027 Operations Intern", company: "Mercury Systems", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/5b8db58f310336e30df3dc30b34be2b1", applyBy: "November 12, 2026" },
-      { title: "Brokerage Internship, Annual, Fall 2026", company: "J.B. Hunt Transport", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/4a0a1de6952ec8fd5a24185642524a24", applyBy: "October 13, 2026" },
-      { title: "Intern - Account Manager Starting Summer 2027", company: "C.H. Robinson", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/ef0d71a3844e1c7d5a17541b8841b88b", applyBy: "October 13, 2026" },
-      { title: "Intern - Supply Chain Management", company: "ERCOT", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/844a3e2bf44005f790810d947982de6c", applyBy: "October 13, 2026" },
-      { title: "Intern - Associate Portfolio Executive - Summer 2027", company: "C.H. Robinson", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/bc21f1762a768f07c885ae9c0cdbb414", applyBy: "October 13, 2026" },
     ]
   },
   businessManagement: {
@@ -205,8 +191,6 @@ const MAJORS = {
       { title: "Engineering Manager", company: "Procter & Gamble Co. (posted via 12Twenty)", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/da50ebc3dbb19ecccce418d84ef88079", applyBy: "November 7, 2026" },
       { title: "Manufacturing Manager", company: "Procter & Gamble Co. (posted via 12Twenty)", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/13f37629b9928532dd3a71a154494dae", applyBy: "November 7, 2026" },
       { title: "Marketing Manager", company: "FOX Corporation", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/1e5d548fe9bd6d85c19c13c0136c7939", applyBy: "November 1, 2026" },
-      { title: "Case Manager/Child Safety Specialist", company: "Arizona Department of Child Safety", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/da052132a64a2c7f8e6bb0d06697cf15", applyBy: "October 21, 2026" },
-      { title: "Project Manager", company: "Epic", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/02c5742ad7b904299c859484e1ba3e25", applyBy: "October 21, 2026" },
       { title: "Guest Relations Manager", company: "Marriott International", link: "https://gcu-csm.symplicity.com/students/app/jobs/detail/3f87e26928a185379c0056c251ae2e42", applyBy: "November 6, 2026" },
     ]
   },
